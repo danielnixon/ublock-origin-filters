@@ -1,0 +1,15 @@
+// Fairfax
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.strap--horoscope
+
+// lifestyle.com.au
+lifestyle.com.au##.HoroscopePod
+lifestyle.com.au##.HeadingHodots
+lifestyle.com.au##.Heading:has(a[href="/horoscopes/"])
+lifestyle.com.au##.Category:has(a[href="http://www.lifestyle.com.au/horoscopes/"])
+lifestyle.com.au##.SubCategoryUL li:has(a[href="http://www.lifestyle.com.au/kellifox/"])
+
+// bodyandsoul.com.au
+bodyandsoul.com.au##ul.tier-2 li:has(a[href="/mind-body/astrology"])
+bodyandsoul.com.au##ul.tier-2 li:has(a[href="/mind-body/horoscopes"])
+bodyandsoul.com.au###anchor-astrology
+bodyandsoul.com.au##.plmnt-horoscopes
