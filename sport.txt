@@ -1,0 +1,58 @@
+// Fairfax
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.nav__item:has(a[href="/sport"])
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.nav__item:has(a[href="/afl"])
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.mega-menu__section:has(a[href="/sport"])
+
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.score-card
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(.strap--sport)
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(.strap--rugby-league)
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(.strap--afl)
+
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##article:has(a[href^="/video/video-sport"])
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##article:has(a[href*="/sport/"])
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##article:has(a[href*="/rugby-league/"])
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##article:has(a[href*="/afl/"])
+
+// The Guardian
+theguardian.com###sport
+theguardian.com##a[data-link-name="nav : primary : sport"]
+theguardian.com##a[data-link-name="nav : primary : football"]
+theguardian.com##li.global-navigation__section:has(a[data-link-name="nav : globalTop : sport"])
+theguardian.com##li.global-navigation__section:has(a[data-link-name="nav : globalTop : football"])
+
+// BBC
+bbc.com##.module--sport
+bbc.com##.orb-nav-sport
+
+// ABC
+abc.net.au##.grandstand
+abc.net.au##li:has(a[data-stationtitle="grandstand"])
+abc.net.au##li:has(a[href*="section=sport"])
+abc.net.au##li:has(a[href="/news/sport/"])
+abc.net.au##li:has(a[href="http://www.abc.net.au/news/sport/"])
+abc.net.au##li:has(a[href="http://www.abc.net.au/sport/"])
+abc.net.au##div.module-heading:has(a[href="/news/sport/"])
+
+abc.net.au##:xpath(//article[.//span[@class="label label-channel"][.//text()="Sport"]])
+
+// SBS
+sbs.com.au##.tile:has(.football)
+sbs.com.au##.football
+sbs.com.au##.node:has(a[href^="http://theworldgame.sbs.com.au/"])
+sbs.com.au##li:has(a[href="/news/sport"])
+sbs.com.au##.pane-bean-latest-articles-sport
+
+// The Australian
+theaustralian.com.au##.widget:has(a[href="/sport"])
+
+// news.com.au
+news.com.au##.nav-sport
+news.com.au##.nav-foxsports
+news.com.au###anchor-sport
+news.com.au##.module:has(.nav-fox-sports)
+news.com.au##.story-block:has(a[href^="http://www.news.com.au/sport/"])
+
+// News Corp
+adelaidenow.com.au,dailytelegraph.com.au,heraldsun.com.au,couriermail.com.au,perthnow.com.au,ntnews.com.au,themercury.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,townsvillebulletin.com.au,cairnspost.com.au,weeklytimesnow.com.au##.content-item:has(.sectionref-sport)
+adelaidenow.com.au,dailytelegraph.com.au,heraldsun.com.au,couriermail.com.au,perthnow.com.au,ntnews.com.au,themercury.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,townsvillebulletin.com.au,cairnspost.com.au,weeklytimesnow.com.au##.sectionref-sport
+adelaidenow.com.au,dailytelegraph.com.au,heraldsun.com.au,couriermail.com.au,perthnow.com.au,ntnews.com.au,themercury.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,townsvillebulletin.com.au,cairnspost.com.au,weeklytimesnow.com.au##.module:has(a[href="/video/Sport/AFL/"])

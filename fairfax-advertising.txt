@@ -1,0 +1,8 @@
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au###jobs
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.story--promo
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(.strap--brand-discover)
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(a[href="http://www.thestore.com.au"])
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(a[href^="https://www.stan.com.au"])
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(.subfirst)
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(iframe[name="compare_save"])
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.subscribe-connect
