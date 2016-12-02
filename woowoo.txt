@@ -7,6 +7,9 @@ lifestyle.com.au##.HeadingHodots
 lifestyle.com.au##.Heading:has(a[href="/horoscopes/"])
 lifestyle.com.au##.Category:has(a[href="http://www.lifestyle.com.au/horoscopes/"])
 lifestyle.com.au##.SubCategoryUL li:has(a[href="http://www.lifestyle.com.au/kellifox/"])
+lifestyle.com.au##.SubMenuWrapper:has(a[href="http://www.lifestyle.com.au/horoscopes/"])
+lifestyle.com.au##li:has(a[href="http://www.lifestyle.com.au/horoscopes/"])
+lifestyle.com.au##.FlushWidget:has(a[href="/kellifox/"])
 
 // bodyandsoul.com.au
 bodyandsoul.com.au##ul.tier-2 li:has(a[href="/mind-body/astrology"])
