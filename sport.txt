@@ -11,6 +11,7 @@ smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.a
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##article:has(a[href^="/video/video-sport"])
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##article:has(a[href*="/sport/"])
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##article:has(a[href*="/rugby-league/"])
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##article:has(a[href*="/rugby-union/"])
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##article:has(a[href*="/afl/"])
 
 // The Guardian
@@ -31,6 +32,7 @@ abc.net.au##li:has(a[href*="section=sport"])
 abc.net.au##li:has(a[href="/news/sport/"])
 abc.net.au##li:has(a[href="http://www.abc.net.au/news/sport/"])
 abc.net.au##li:has(a[href="http://www.abc.net.au/sport/"])
+abc.net.au##li:has(a[href="http://aisawards.abc.net.au/"])
 abc.net.au##div.module-heading:has(a[href="/news/sport/"])
 
 abc.net.au##:xpath(//article[.//span[@class="label label-channel"][.//text()="Sport"]])
@@ -41,6 +43,8 @@ sbs.com.au##.football
 sbs.com.au##.node:has(a[href^="http://theworldgame.sbs.com.au/"])
 sbs.com.au##li:has(a[href="/news/sport"])
 sbs.com.au##.pane-bean-latest-articles-sport
+
+sbs.com.au##:xpath(//div[contains(@class, 'panel-pane')][.//div[contains(@class, 'more-top-stories-title')][.//text()="The World Game"]])
 
 // The Australian
 theaustralian.com.au##.widget:has(a[href="/sport"])
