@@ -1,5 +1,6 @@
 // Fairfax
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.strap--horoscope
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##li:has(a[href="/lifestyle/horoscopes"])
 
 // lifestyle.com.au
 lifestyle.com.au##.HoroscopePod
