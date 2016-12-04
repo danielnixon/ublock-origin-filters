@@ -4,6 +4,7 @@ smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.a
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.mega-menu__section:has(a[href="/sport"])
 
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.score-card
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.panel--mc-score
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(.strap--sport)
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(.strap--rugby-league)
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(.strap--afl)
