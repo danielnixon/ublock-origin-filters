@@ -6,3 +6,5 @@ smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.a
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(.subfirst)
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.section:has(iframe[name="compare_save"])
 smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##.subscribe-connect
+
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au##:xpath(//article[.//li[contains(@class, 'identifier')][.//text()="Sponsored"]])

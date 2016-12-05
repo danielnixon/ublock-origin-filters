@@ -26,3 +26,6 @@ news.com.au##.module-horoscopes
 adelaidenow.com.au,dailytelegraph.com.au,heraldsun.com.au,couriermail.com.au,perthnow.com.au,ntnews.com.au,themercury.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,townsvillebulletin.com.au,cairnspost.com.au,weeklytimesnow.com.au##li.menu-item:not(.menu-item-has-children):has(a[href="/lifestyle/horoscopes"])
 adelaidenow.com.au,dailytelegraph.com.au,heraldsun.com.au,couriermail.com.au,perthnow.com.au,ntnews.com.au,themercury.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,townsvillebulletin.com.au,cairnspost.com.au,weeklytimesnow.com.au##.horoscopes-promo
 adelaidenow.com.au,dailytelegraph.com.au,heraldsun.com.au,couriermail.com.au,perthnow.com.au,ntnews.com.au,themercury.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,townsvillebulletin.com.au,cairnspost.com.au,weeklytimesnow.com.au##div.item:has(.horoscope-summary)
+
+// Telstra Media
+media.telstra.com.au##.horoscope
