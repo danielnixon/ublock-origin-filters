@@ -38,6 +38,7 @@ abc.net.au##div.module-heading:has(a[href="/news/sport/"])
 
 abc.net.au##:xpath(//li[.//span[@class="label label-channel"][.//text()="Sport"]])
 abc.net.au##:xpath(//li[.//em[.//text()="SPORT"]])
+abc.net.au##:xpath(//div[contains(@class, 'article')][.//cite[.//text()="ABC Sport"]])
 abc.net.au##div.promo-list:has(a[href="http://www.abc.net.au/sport"])
 
 // SBS
