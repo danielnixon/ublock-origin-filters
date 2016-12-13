@@ -76,3 +76,20 @@ skynews.com.au##.sn-footer-category:has(a[href="/sport.html"])
 
 media.telstra.com.au,skynews.com.au,lifestyle.com.au,bigpondmovies.com##li:has(a.tmx-afl)
 media.telstra.com.au,skynews.com.au,lifestyle.com.au,bigpondmovies.com##li:has(a.tmx-nrl)
+
+// Reddit
+// Remove sports posts from /r/australia.
+reddit.com##div.thing:has(span[class="linkflairlabel"][title="sport"])
+
+// Make /r/all more tolerable.
+reddit.com##div.thing:has(a[href="https://www.reddit.com/r/sports/"])
+reddit.com##div.thing:has(a[href="https://www.reddit.com/r/nba/"])
+reddit.com##div.thing:has(a[href="https://www.reddit.com/r/soccer/"])
+reddit.com##div.thing:has(a[href="https://www.reddit.com/r/MLS/"])
+reddit.com##div.thing:has(a[href="https://www.reddit.com/r/SquaredCircle/"])
+reddit.com##div.thing:has(a[href="https://www.reddit.com/r/hockey/"])
+reddit.com##div.thing:has(a[href="https://www.reddit.com/r/MMA/"])
+reddit.com##div.thing:has(a[href="https://www.reddit.com/r/CFB/"])
+reddit.com##div.thing:has(a[href="https://www.reddit.com/r/SoundersFC/"])
+reddit.com##div.thing:has(a[href="https://www.reddit.com/r/detroitlions/"])
+reddit.com##div.thing:has(a[href="https://www.reddit.com/r/LosAngelesRams/"])
