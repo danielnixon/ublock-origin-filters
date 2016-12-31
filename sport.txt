@@ -25,6 +25,8 @@ theguardian.com##li.global-navigation__section:has(a[data-link-name="nav : globa
 // BBC
 bbc.com##.module--sport
 bbc.com##.orb-nav-sport
+bbc.com###comp-sport
+bbc.com##li:has(a[href^="/sport/"])
 
 // ABC
 abc.net.au##.grandstand
@@ -64,6 +66,8 @@ news.com.au##.story-block:has(a[href^="http://www.news.com.au/sport/"])
 adelaidenow.com.au,dailytelegraph.com.au,heraldsun.com.au,couriermail.com.au,perthnow.com.au,ntnews.com.au,themercury.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,townsvillebulletin.com.au,cairnspost.com.au,weeklytimesnow.com.au##.content-item:has(.sectionref-sport)
 adelaidenow.com.au,dailytelegraph.com.au,heraldsun.com.au,couriermail.com.au,perthnow.com.au,ntnews.com.au,themercury.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,townsvillebulletin.com.au,cairnspost.com.au,weeklytimesnow.com.au##.sectionref-sport
 adelaidenow.com.au,dailytelegraph.com.au,heraldsun.com.au,couriermail.com.au,perthnow.com.au,ntnews.com.au,themercury.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,townsvillebulletin.com.au,cairnspost.com.au,weeklytimesnow.com.au##.module:has(a[href="/video/Sport/AFL/"])
+adelaidenow.com.au,dailytelegraph.com.au,heraldsun.com.au,couriermail.com.au,perthnow.com.au,ntnews.com.au,themercury.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,townsvillebulletin.com.au,cairnspost.com.au,weeklytimesnow.com.au##[data-sports]
+adelaidenow.com.au,dailytelegraph.com.au,heraldsun.com.au,couriermail.com.au,perthnow.com.au,ntnews.com.au,themercury.com.au,geelongadvertiser.com.au,goldcoastbulletin.com.au,townsvillebulletin.com.au,cairnspost.com.au,weeklytimesnow.com.au##.widget_newscorpau_fs_score_centre
 
 // Telstra Media
 media.telstra.com.au##li:has(a[href^="http://www.skynewssport.com.au/"])
