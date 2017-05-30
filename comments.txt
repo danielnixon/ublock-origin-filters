@@ -1,0 +1,3 @@
+youtube.com###watch-discussion
+imgur.com###comments-container
+smh.com.au,canberratimes.com.au,theage.com.au,brisbanetimes.com.au,watoday.com.au###comments
