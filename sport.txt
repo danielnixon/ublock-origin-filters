@@ -41,9 +41,9 @@ abc.net.au##li:has(a[href*="/sports-quiz"])
 abc.net.au##div.module-heading:has(a[href="/news/sport/"])
 
 abc.net.au##:xpath(//li[.//span[@class="label label-channel"][.//text()="Sport"]])
-abc.net.au##:xpath(//article[.//span[@class="label label-channel"][.//text()="Sport"]])
 abc.net.au##:xpath(//li[.//em[.//text()="SPORT"]])
 abc.net.au##:xpath(//div[contains(@class, 'article')][.//cite[.//text()="ABC Sport"]])
+abc.net.au##:xpath(//div[contains(@class, 'article')][.//cite[.//text()="Total Football Podcast"]])
 abc.net.au##div.promo-list:has(a[href="http://www.abc.net.au/sport"])
 
 // SBS
@@ -54,6 +54,9 @@ sbs.com.au##li:has(a[href="/news/sport"])
 sbs.com.au##.pane-bean-latest-articles-sport
 
 sbs.com.au##:xpath(//div[contains(@class, 'panel-pane')][.//div[contains(@class, 'more-top-stories-title')][.//text()="The World Game"]])
+
+// http://www.sbs.com.au/ondemand/
+sbs.com.au##li:has(a[href="sport"])
 
 // The Australian
 theaustralian.com.au##.widget:has(a[href="/sport"])
